@@ -1,0 +1,1 @@
+09b9660c5af13d1bebb1f7f3e121bee3c674490cafd627ddde4b395b8b048aaa  mininet_v1_cifar10_weights.pth
